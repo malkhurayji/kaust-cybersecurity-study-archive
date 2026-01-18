@@ -18,6 +18,10 @@ This repository serves as a personal learning archive to:
 - Incident Response
 - Threat Analysis
 
+## 📦 Large Lab Files
+Due to GitHub size limits, virtual machines and installers are hosted externally.
+See: [RESOURCES.md](./RESOURCES.md)
+
 ## ⚠️ Disclaimer
 My **notes are original work**.  
 All **slides and course materials are not owned by me** and remain the intellectual property of KAUST and their respective authors.  
