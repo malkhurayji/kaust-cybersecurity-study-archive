@@ -34,7 +34,7 @@ See: [RESOURCES.md](./RESOURCES.md)
 
 ## 👤 Author
 Mohammed Alkhurayji  
-LinkedIn: https://linkedin.com/in/malkhurayji
+
 
 # 📘 Course Materials — KAUST Cybersecurity Specialization Program
 
